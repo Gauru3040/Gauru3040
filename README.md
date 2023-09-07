@@ -34,4 +34,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauru3040&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauru3040&hide_progress=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gauru3040&repo=production-portfolio-mern-project)](https://github.com/Gauru3040/production-portfolio-mern-project)
